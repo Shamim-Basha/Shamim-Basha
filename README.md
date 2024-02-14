@@ -5,8 +5,9 @@
 <p align="center">
  <a href="https://www.buymeacoffee.com/shamim.basha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <a href="https://shamim-basha.github.io" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/shamim_basha" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://youtube.com/@shamim_basha" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="https://linkedin.com/in/shamim_basha" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a> 
+ <a href="https://youtube.com/@shamim_basha" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
+</p>
 
 # 💻 Tech Stack:
 #### Languages
