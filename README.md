@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Shamim Basha </br> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
-<p align="center">Turning code into solutions 🚀</p>
+<p align="center">Turning lines of code into innovative solutions 🚀</p>
 <p align="center">
  <a href="https://www.buymeacoffee.com/shamim.basha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <a href="https://shamim-basha.github.io" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
@@ -30,7 +30,6 @@
 
 #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
